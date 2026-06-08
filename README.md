@@ -1,14 +1,13 @@
-# Connect 4: Python Edition 🔴 🟡
+<h1 align="left">
+  <img src="assets/logo.png" alt="Connect Four Logo" width="120" align="left" hspace="5">
+  Connect 4: Python Edition 🔴 🟡
+</h1>
 
-<p align="center">
-  <img src="assets/logo.png" alt="Connect Four Logo" width="200px">
-</p>
-
-<p align="center">
+<p align="left">
   A sleek, lightweight, purely Python-based implementation of the classic Connect 4 board game. Built using Tkinter, this desktop application offers a smooth graphical interface featuring both offline local multiplayer and an automated AI opponent.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Somya6422/Connect_4_Game/releases/latest">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github" alt="Download Game">
   </a>
