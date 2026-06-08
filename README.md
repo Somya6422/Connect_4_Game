@@ -45,7 +45,3 @@ You can either download the pre-compiled standalone executable to play instantly
 
 ### Option 2: Running from Source
 If you prefer to run or modify the Python source code, ensure you have Python 3 installed.
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Somya6422/Connect_4_Game.git](https://github.com/Somya6422/Connect_4_Game.git)
